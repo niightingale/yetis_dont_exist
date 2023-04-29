@@ -1,8 +1,7 @@
+<p align="center"><img width=25% src="https://github.com/niightingale/yetis_dont_exist/blob/main/game_logo.png"></p>
+
 # Yetis Don't Exist
-
-<img title="" src="file:///C:/Users/acher/Documents/_Local/yetis_dont_exist/game_logo.png" alt="game_logo.png" data-align="center" width="172">
-
-#### by Niightingale
+#### by Niightingale and teammates
 
 > Open World exploration game made for a University Project | 2022 | Computer Science Minor
 
