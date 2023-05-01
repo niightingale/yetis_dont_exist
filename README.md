@@ -24,6 +24,8 @@ The game does not require installing. Simply clone this repository, run in the c
 $ git clone https://github.com/niightingale/yetis_dont_exist.git
 ```
 
+:exclamation: **Note** that even though this project is pre-compiled and immediately ready to use through the executable as described in the next section, the 'download ZIP' button in the GitHub GUI cannot be used to download this project. This is due to the fact that the LFS files will not get downloaded through that method. Cloning is therefore necessary.
+
 Further than this there are no requirements. Note however, that the game lacks most of the optimizations that are required for an open-world game to run well on modern hardware.
 
 ## ✍️ How to Use
