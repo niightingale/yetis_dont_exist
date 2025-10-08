@@ -41,4 +41,4 @@ The source code is kept in a private repository but can be released upon request
 
 ## 📑 License
 
-Guardian of the Railroad is licensed under the [GNU General Public Licence v3.0](https://www.gnu.org/licenses/gpl-3.0.nl.html#top). All original assets are under Creative Commons licence ([CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)).
+'Yetis Don't Exist' is licensed under the [GNU General Public Licence v3.0](https://www.gnu.org/licenses/gpl-3.0.nl.html#top). All original assets are under Creative Commons licence ([CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)).
